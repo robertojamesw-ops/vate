@@ -6,6 +6,10 @@
     <language>zh-cn</language>
     <itunes:author>Global Sports Betting Guide</itunes:author>
     <description>每日更新世界杯最新赛事分析、赔率解读及安全投注平台推荐。</description>
+     <itunes:owner>
+        <itunes:email>ified2199@proton.me</itunes:email>
+        <itunes:name>Global Sports Betting Guide</itunes:name>
+    </itunes:owner>
     <itunes:image href="https://robertojamesw-ops.github.io/vate/cover.jpg"/>
     <itunes:category text="Sports"/>
     <item>
